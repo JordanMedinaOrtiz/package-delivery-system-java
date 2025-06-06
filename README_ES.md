@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="README.md" target="_blank">
-    Ver README en Inglés
+    View README in English
   </a>
 </p>
 
