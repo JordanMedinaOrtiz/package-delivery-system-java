@@ -27,10 +27,10 @@
 
 <h1 align="center">Main Features</h1>
 <ul>
-  <li><b>Responsive Design:</b> Built with CSS Grid and Tailwind CSS to ensure adaptability across various screen sizes and devices.</li>
-  <li><b>Tailwind CSS:</b> Full exploration of Tailwind CSS—from installation and configuration to using utility classes for styling components efficiently.</li>
-  <li><b>Deployment Process:</b> Bundling and deployment prepared for production, serving as a reference for future professional setups.</li>
-  <li><b>Interactive Hamburger Menu:</b> JavaScript-driven hamburger navigation enhances user experience on mobile devices.</li>
+  <li><b>OOP Structure:</b> Fully object-oriented design with clean modular architecture.</li>
+  <li><b>Database Management:</b> Uses a SQL database to store and manage all package, client, and employee data.</li>
+  <li><b>PDF and Excel Reporting:</b> Generate delivery and tracking reports in multiple formats for data analysis.</li>
+  <li><b>Dynamic Graphs:</b> Visualize system metrics and delivery stats using charts.</li>
   <li><b>Map Integration:</b> View and manage delivery zones with a built-in map through API integration.</li>
   <li><b>Graphical User Interface:</b> Intuitive and user-friendly GUI for data interaction.</li>
   <li><b>Threading and Error Handling:</b> Ensures stability and performance through custom exception handling and multithreading.</li>
