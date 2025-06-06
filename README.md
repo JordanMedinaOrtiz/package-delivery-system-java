@@ -39,12 +39,12 @@
 
 <h1 align="center">Skills Acquired</h1>
 <ul>
-  <li>Real-world use of OOP in Java</li>
-  <li>Integration of external APIs and libraries</li>
-  <li>Handling file generation (PDF, XLS) and graph visualization</li>
-  <li>Connecting Java applications to relational databases</li>
-  <li>Designing interactive desktop GUIs</li>
-  <li>Managing application flow with threads and exceptions</li>
+  <li>Real-world use of OOP in Java.</li>
+  <li>Integration of external APIs and libraries.</li>
+  <li>Handling file generation (PDF, XLS) and graph visualization.</li>
+  <li>Connecting Java applications to relational databases.</li>
+  <li>Designing interactive desktop GUIs.</li>
+  <li>Managing application flow with threads and exceptions.</li>
 </ul>
 <hr>
 
